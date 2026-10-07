@@ -1,1 +1,1 @@
-# Pseudo-Depth-for-Instance-Tree-Crown-Segmentation
+# Pseudo-Depth for Instance Tree-Crown Segmentation
