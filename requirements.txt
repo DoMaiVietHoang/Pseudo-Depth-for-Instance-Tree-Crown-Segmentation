@@ -1,0 +1,11 @@
+mmengine
+mmcv
+mmdet
+numpy>=1.24
+opencv-python>=4.8
+pycocotools>=2.0.7
+scikit-image>=0.22
+scipy>=1.11
+tqdm>=4.66
+matplotlib>=3.8
+pillow>=10.0
