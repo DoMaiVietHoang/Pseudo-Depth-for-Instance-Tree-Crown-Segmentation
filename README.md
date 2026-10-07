@@ -246,20 +246,6 @@ python tools/eval/aggregate_seeds.py work_dirs --out results_meanstd.md
 [docs/ABLATIONS.md](docs/ABLATIONS.md) has the full protocol, including
 test-time robustness sweeps, gate visualisation and qualitative comparisons.
 
-## Results
-
-> Results will be added soon.
-
-| Dataset | Model | AP<sup>mask</sup> | AP<sub>50</sub> | AP<sub>75</sub> | Boundary AP | Touching AP |
-|---|---|:-:|:-:|:-:|:-:|:-:|
-| BAMFOREST | Mask2Former R50 (RGB) | – | – | – | – | – |
-| | + RGB-D concat | – | – | – | – | – |
-| | + DepthGate (ours) | – | – | – | – | – |
-| QuebecTree | Mask2Former R50 (RGB) | – | – | – | – | – |
-| | + DepthGate (ours) | – | – | – | – | – |
-| ForestSeg-T1 | Mask2Former R50 (RGB) | – | – | – | – | – |
-| | + DepthGate (ours) | – | – | – | – | – |
-
 ## Is pseudo-depth a real height signal?
 
 [tools/chm/](tools/chm/) builds a reference canopy height model (CHM) from the
